@@ -9,9 +9,9 @@ subtitle:
 
 * Meizhu Li, Linshan Li, Zhixuan Zhang, and Qi Zhang. A novel method for generating permutation mass functions using permutations to represent class bias. Expert Systems with Applications (2026): 132004.
 
-* Cai Zhang, Yishu Xian, Xiao Yuan, Meizhu Li, and Qi Zhang. Restricted Network Reconstruction from Time Series via Dempster–Shafer Evidence Theory. Entropy 28, no. 2 (2026): 148.
+* Cai Zhang, Yishu Xian, Xiao Yuan, Meizhu Li, and Qi Zhang. Restricted Network Reconstruction from Time Series via Dempster–Shafer Evidence Theory. Entropy 28, no. 2 (2026): 148.
 
-* Yishu Xian, Luyuan Chen, Meizhu Li, and Qi Zhang. Topological complexity quantification in hypergraphs networks via hyperedge-based entropic measures. Physics Letters A (2025): 131233.
+* Yishu Xian, Luyuan Chen, Meizhu Li, and Qi Zhang. Topological complexity quantification in hypergraphs networks via hyperedge-based entropic measures. Physics Letters A (2025): 131233.
 
 * Deyue Feng, Luyuan Chen, Meizhu Li, and Qi Zhang. Node clustering in complex networks based on the euclidean distance of structural characteristics. Chaos, Solitons & Fractals 201 (2025): 117249.
 
