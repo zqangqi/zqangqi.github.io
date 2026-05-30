@@ -7,38 +7,46 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/news.png?raw=true" height="60" width="60"> News
 ---
 
-- 2026.03，恭喜本科生李林山同学的学术论文被中科院一区期刊《Expert Systems with Applications》录用！
-- 2026.03，恭喜研究生房瑞彤同学的学术论文被SCI期刊录用！
-- 2025.09，恭喜本科生李林山同学成功保研至浙江大学！
-- 2025.09，恭喜本科生吴妮妮同学成功保研至中国石油大学！
-- 2025.09，恭喜本科生李林山和吴妮妮同学获得研究生推免资格!
-- 2025.08，恭喜研究生李诺同学的学术论文被SCI期刊录用！
-- 2025.06，恭喜本科生张智轩同学顺利毕业并升学至香港大学！
-- 2025.06，恭喜本科生孙智鑫同学、刘贤宇同学顺利毕业并升学至江苏大学！
-- 2025.06，恭喜研究生陈青雯同学顺利毕业并就职南京小米！
-- 2024.12，恭喜本科生李林山同学的学术论文被SCI期刊录用！
-- 2024.11，恭喜研究生陈青雯同学的学术论文获评江苏省研究生“互联网+”与智能电气化农业装备学术创新论坛优秀论文三等奖！
-- 2024.10，恭喜本科生李林山同学的2篇学术论文被中科院一区期刊《Information Sciences》录用！
+
 
 ---
 
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/orga.png?raw=true" height="60" width="60"> Conferences and Talks
 ---
 
-- 第二十届全国人机语音通讯学术会议（NCMMSC）（2025.10），镇江，中国. （教程报告主席）
-- 第八届证据推理与人工智能(ERAI2025)学术会议暨第二届数据解析与决策智能研讨会(2025.04),成都,中国.
-- “生成模型的构建:Deepseek在智能生成中的启发与应用”研讨会(2025.03),杭州,中国.
-- 江苏省研究生“互联网+”与智能电气化农业装备学术创新论坛(2024.11),镇江,中国.
-- 第七届证据推理与人工智能(ERAI2024)学术会议(2024.08),银川,中国.
-- 多媒体智能理解研讨会，协助承办会议(2023.12),苏州,中国.
-- IEEE 6th International Conference on Signal and Image Processing (ICSIP 2021), Nanjing, China.
-- IEICE Information and Communication Technology Forum, (ICTF 2020), Niš, Serbia.
-- IEEE 4th International Conference on Signal and Image Processing (ICSIP 2019), Wuxi, China.
-- Workshop on Machine Learning in High-dimensional Data Processing (2019), Ghent, Belgium.
-- The 5th International Conference on Belief Functions (BELIEF 2018) and 9th International Conference on Soft Methods in Probability and Statistics (SMPS 2018), Compiègne, France.
-- The 8th Summer School on Imprecise Probabilities: Theory and Applications (2018), Oviedo, Spain.
-- The 11th Workshop on Principles and Methods of Statistical Inference with Interval Probability (WPMSIIP 2018), Oviedo, Spain.
-- Poster presentation on ISIPTA & ECSQARU Conference (2017), Lugano, Switzerland.
-- 西南大学含弘讲堂（自然科学类）第一名（2015），重庆，中国.
+
+2025 复杂网络拓扑结构的信度重构研究，大会报告，全国复杂性科学年会，镇江，China，Nov,2025
+
+2025 Local entropy and nonextensivity of networks ensemble，分会口头报告，第八届全国统计物理与复杂系统学术会议，宁波，China, Aug, 2025
+
+2024 复杂系统中的系综等价性与渐进均分性关系研究，口头报告，全国复杂性科学年会，福州，China, Nov, 2024
+
+2023 局域约束下的相变与系综不等价性，分会报告(无序系统与玻璃)，第七届全国统计物理与复杂系统学术会议，昆明，China, July, 2023
+
+2023 复杂网络信源产生信息的压缩极限，分会报告(会场Ⅲ)，全国复杂性科学年会，昆明，China,July,2023
+
+2022 局域约束下的系综不等价,邀请报告,中科院理论物理研究所, 北京, China, December, 2022
+
+2022 局域约束下的系综不等价,Oral Presentation,中国物理学会2022秋季学术会议, 深圳, China, November, 2022
+
+2022 复杂网络中的系综不等价,Oral Presentation,第六届中国系统科学大会, Shanghai,，China, November, 2022
+
+2022 Ensemble nonequivalence and Bose-Einstein condensation in weighted networks,Oral Presentation, NetSci 2022, Shanghai, China, July, 2022
+
+2022 复杂网络信源的信息压缩极限, 第十八届中国网络科学论坛，Oral Presentation,成都，中国，May，2022
+
+2021 Breaking of ensemble equivalence in networks, Networks 2021, Oral Presentation, Online, July, 2021.
+
+2020 Ensemble nonequivalence in system with local constraints, CCS2020, Oral Presentation, Online, Dec, 2020
+
+2020 Weak and strong ensemble nonequivalence in systems with local constraints, Presentation, LCN2 Seminar, Leiden University, The Netherlands. Feb, 2020
+
+2019 局域约束下的信息处理,含弘青年学者论坛, 西南大学, 重庆, 中国, Nov, 2019.
+
+2018 Ensemble nonequivalence in complex network, Network Program Training Week 6,Doorn, The Netherlands. April, 2018
+
+2017 Information theory and Ensemble nonequivalence, Network Program Training Week5, Asperen, The Netherlands. Oct, 2017
+
+2015 基于相对熵方法的模型确认实验优化设计, 中国力学大会-2015(CCTAM2015),上海, 中国, Aug, 2015.
   
 ---
